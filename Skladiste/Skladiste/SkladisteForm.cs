@@ -35,6 +35,7 @@ namespace Skladiste
         private void SkladisteForm_Load(object sender, EventArgs e)
         {
             this.Osvjezi();
+            this.radioButton1.Checked = true;
         }
 
         private void button1_Click(object sender, EventArgs e)
