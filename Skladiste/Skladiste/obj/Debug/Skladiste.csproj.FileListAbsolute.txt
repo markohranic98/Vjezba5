@@ -1,0 +1,14 @@
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\bin\Debug\Skladiste.exe.config
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\bin\Debug\Skladiste.exe
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\bin\Debug\Skladiste.pdb
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\bin\Debug\SkladisteData.dll
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\bin\Debug\SkladisteData.pdb
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.SkladisteForm.resources
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.Properties.Resources.resources
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.csproj.CopyComplete
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.exe
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\Skladiste\obj\Debug\Skladiste.pdb

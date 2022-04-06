@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\SkladisteData\bin\Debug\SkladisteData.dll
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\SkladisteData\bin\Debug\SkladisteData.pdb
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\SkladisteData\obj\Debug\SkladisteData.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\SkladisteData\obj\Debug\SkladisteData.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\SkladisteData\obj\Debug\SkladisteData.dll
+C:\Users\Marko\source\repos\Vjezbe5\Skladiste\SkladisteData\obj\Debug\SkladisteData.pdb
