@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\Vjezbe5\NogometniTimovi\KlubLib\bin\Debug\KlubLib.dll
+C:\Users\Marko\source\repos\Vjezbe5\NogometniTimovi\KlubLib\bin\Debug\KlubLib.pdb
+C:\Users\Marko\source\repos\Vjezbe5\NogometniTimovi\KlubLib\obj\Debug\KlubLib.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe5\NogometniTimovi\KlubLib\obj\Debug\KlubLib.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe5\NogometniTimovi\KlubLib\obj\Debug\KlubLib.dll
+C:\Users\Marko\source\repos\Vjezbe5\NogometniTimovi\KlubLib\obj\Debug\KlubLib.pdb
