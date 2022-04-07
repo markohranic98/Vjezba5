@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\Vjezbe5\Knjiznica\KnjiznicaLib\bin\Debug\KnjiznicaLib.dll
+C:\Users\Marko\source\repos\Vjezbe5\Knjiznica\KnjiznicaLib\bin\Debug\KnjiznicaLib.pdb
+C:\Users\Marko\source\repos\Vjezbe5\Knjiznica\KnjiznicaLib\obj\Debug\KnjiznicaLib.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe5\Knjiznica\KnjiznicaLib\obj\Debug\KnjiznicaLib.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe5\Knjiznica\KnjiznicaLib\obj\Debug\KnjiznicaLib.dll
+C:\Users\Marko\source\repos\Vjezbe5\Knjiznica\KnjiznicaLib\obj\Debug\KnjiznicaLib.pdb
