@@ -1,0 +1,13 @@
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\bin\Debug\PopisArtiklaProject.exe.config
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\bin\Debug\PopisArtiklaProject.exe
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\bin\Debug\PopisArtiklaProject.pdb
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.PopisArtikalaForm.resources
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.Properties.Resources.resources
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.exe
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.pdb
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.MainMenu.resources
+C:\Users\Marko\source\repos\Vjezbe5\PopisArtiklaProject\PopisArtiklaProject\obj\Debug\PopisArtiklaProject.PopisForm.resources
